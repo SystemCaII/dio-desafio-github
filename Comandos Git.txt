@@ -1,0 +1,12 @@
+Comandos Git 
+
+- cd ( é usado para entrar e sair de pastas)  
+
+- ls ( lista todo o conteúdo da pasta)
+
+- git status ( mostra o status atual a pasta)
+
+- git commit -m  ( adiciona o conteúdo local no remoto, com uma mensagem)
+
+- git add . ( adiciona todo o contéudo na pasta local que ta em espera)
+
